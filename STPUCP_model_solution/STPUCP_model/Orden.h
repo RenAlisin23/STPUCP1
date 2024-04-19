@@ -1,21 +1,19 @@
+/**
+ * Project Sistema STPUCP
+ * @author Kevin Tumbalobos
+ */
 
-/*   * Project Sistema STPUCP
-*  */
-#pragma once
+
 #ifndef _ORDEN_H
 #define _ORDEN_H
 
-using namespace System;
-
-namespace STPUCPModel {
-    public ref class Orden {
-    public:
-        property int Id;
-        property String^ Distrito;
-        property double CalificacionEstrellas;
-        property double Precio;
-        property String^ Fecha;
-    };
-}
+class Orden {
+public: 
+    int Id;
+    String^ Distrito;
+    double CalificacionEstrellas;
+    double PrecioOrden;
+    String^ FechaOrden;
+};
 
 #endif //_ORDEN_H

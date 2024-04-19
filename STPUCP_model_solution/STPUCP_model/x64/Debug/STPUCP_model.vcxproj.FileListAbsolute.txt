@@ -1,2 +1,0 @@
-T:\Proyecto stpucp\STPUCP_model_solution\STPUCP_model\x64\Debug\STPUCP_model.vcxproj.AssemblyReference.cache
-D:\Users\alulab14\Downloads\ProyectoSTPUCP\Proyecto stpucp\STPUCP_model_solution\STPUCP_model\x64\Debug\STPUCP_model.vcxproj.AssemblyReference.cache
